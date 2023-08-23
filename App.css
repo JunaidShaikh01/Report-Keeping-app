@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  color: whitesmoke;
+}
+h1 {
+  margin: 0;
+}
+
+.header {
+  background: #192a56;
+  padding: 1rem;
+}
+.inputSection {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.data {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+.outputData {
+  display: flex;
+  align-items: center;
+  margin-top: 0.5rem;
+  justify-content: space-between;
+  width: 70vw;
+  color: black;
+  padding: 0 0.5rem 0 0.5rem;
+  background-color: whitesmoke;
+  border-radius: 5px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
